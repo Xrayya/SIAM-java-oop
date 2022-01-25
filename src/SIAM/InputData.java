@@ -1,0 +1,5 @@
+package SIAM;
+
+class InputData {
+    ;
+}
